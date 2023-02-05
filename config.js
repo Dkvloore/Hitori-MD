@@ -46,11 +46,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
-global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
+global.sig = '_'
+global.sgh = 'https://github.com/Dkvloore'
+global.sgc = '_'
 global.sdc = " "
-global.snh = 'https://xhitori.my.id'
+global.snh = '_'
 
 /*============== PAYMENT ==============*/
 global.pdana = '082125276167'
